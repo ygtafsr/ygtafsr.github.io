@@ -68,10 +68,3 @@ Designed industrial cooling system applications, performed design calculations, 
 
 English  
 Turkish 
-
-
-
-
-
-
-
