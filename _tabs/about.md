@@ -24,11 +24,11 @@ FEA Engineer specializing in nonlinear static and dynamic analysis. Developed se
 
 ### **CAE Engineer (ZF Group / Automotive / 2022-2025)**
 
-#### *Key Responsibilities*
+#### *Responsibilities*
 
   Performed nonlinear FEA and fatigue assessments of vehicle chassis components using detailed models (3–6M DOF). Worked on steel, aluminum, plastic and rubber parts with nonlinear material models, complex contact formulations, and realistic joint representations (bolted preload, weld modelling) under multi-axial loading conditions. Carried out vibration, multi-event, and IIW Weld fatigue analysis based on both stress-life and strain-life methods.
 
-#### *Achievements*
+#### *Key Achievements*
 
 -	Developed a Python-based software to diagnose convergence issues, reduce debugging time and improve model robustness in nonlinear FEA.  
 
@@ -36,27 +36,27 @@ FEA Engineer specializing in nonlinear static and dynamic analysis. Developed se
 
 ### **Structural Analysis Engineer (Eltas Transformer AS / Energy / 2021-2022)**
 
-#### *Key Responsibilities*
+#### *Responsibilities*
 
 Performed FEA for structural static and dynamic problems for transformer lifting and transportation, vacuum buckling, weld integrity, bolted joint behavior, and seismic loading scenarios, as well as multiphysics analyses involving wind loads and thermal strain effects.
 
-#### *Achievements*
+#### *Key Achievements*
 
 -	Developed a parametric CAD tool using the C# Autodesk Inventor API and the .NET Framework to enhance the analysis–to-design workflow.
 
 ### **Mechanical Design Engineer (Nanotech / Aerospace / 2017-2021)**
 
-#### *Key Responsibilities*
+#### *Responsibilities*
 
 Designed and manufactured mechanical components, and systems such as shafts, flanges, fixtures, dies, motional jacks, flushing systems, vacuum and pressure vessels. Participated in all engineering stages starting from conceptual design, CAD, technical drawings, CAM, prototyping, test and measurement (CMM), design reviews, and machining. Gained hands-on workshop experience in CNC machining and fabrication of steel, aluminum, titanium, plastic, ceramic, and glass components.
 
-#### *Achievements*
+#### *Key Achievements*
 
 -	Designed and manufactured precise-motion-controlled vertical loading ceramic furnace for the main production line. Performed heat transfer (FEA) analysis to ensure temperature regime for proper sintering conditions.  
 
 ### **Project Engineer (ARS Cooling Systems / Energy / 2013-2016)**
 
-#### *Key Responsibilities*
+#### *Responsibilities*
 
 Designed industrial cooling system applications, performed design calculations, prepared 2D project drawings, and produced technical reports for project documentation.
 
