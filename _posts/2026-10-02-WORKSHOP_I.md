@@ -5,7 +5,7 @@ date: 2026-10-01 09:00:00 +/-0000
 categories: [PORTFOLIO]
 tags: [design, workshop, portfolio]     # TAG names should always be lowercase
 image:
-  path: /assets/img/5273.jpeg
+  path: ../assets/img/5273.jpeg
   lqip: /path/to/lqip-file # or base64 URI
 ---
 
