@@ -8,17 +8,21 @@ FEA Engineer specializing in nonlinear static and dynamic analysis. Developed se
 
 ## CORE EXPERTISE
 
-**Nonlinear FEA:**  Contact - Plasticity - Hyperelasticity - Large Deformation   
-**Structural Analysis:**  Static - Dynamic - Buckling - Modal   
-**Fatigue & Durability:**  High/Low Cycle Fatigue Analysis   
-**CAE Automation:**  Python-based workflow development - Convergence Diagnostics     
+| Category | Expertise |
+| --- | --- |
+| Nonlinear FEA | Contact - Plasticity - Hyperelasticity - Large Deformation |
+| Structural Analysis | Static - Dynamic - Buckling - Modal |
+| Fatigue & Durability | High/Low Cycle Fatigue Analysis |
+| CAE Automation | Python-based workflow development - Convergence Diagnostics |
 
 ## ENGINEERING TOOLS
 
-**FEA:** Ansys - Abaqus - Hyperworks - PyAnsys - VTK  
-**Fatigue:** Simcenter Durability - nCode DesingLife  
-**CAD:** Solidworks - SpaceClaim - AutoCAD  
-**Programming:** Python - C - Numpy - Matplotlib - Pandas - Jupyter - Trame - Qt  
+| Category    | Tools                                                           |
+| ----------- | --------------------------------------------------------------- |
+| FEA         | Ansys - Abaqus - Hyperworks - PyAnsys - VTK                     |
+| Fatigue     | Simcenter Durability - nCode DesingLife                         |
+| CAD         | Solidworks - SpaceClaim - AutoCAD                               |
+| Programming | Python - C - Numpy - Matplotlib - Pandas - Jupyter - Trame - Qt |
 
 ## EMPLOYMENT HISTORY
 

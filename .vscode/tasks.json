@@ -21,6 +21,13 @@
       },
       "problemMatcher": [],
       "detail": "Build the Jekyll site for production."
+    },
+    {
+      "label": "Preview Jekyll site",
+      "type": "shell",
+      "command": "bundle exec jekyll serve --livereload",
+      "isBackground": true,
+      "problemMatcher": []
     }
   ]
 }
