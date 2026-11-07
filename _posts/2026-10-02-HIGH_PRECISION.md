@@ -1,11 +1,11 @@
 ---
 title: High Precision Machining
 description: Grinding of High Precision Quartz and Ceramics
-date: 2026-10-01 09:00:00 +/-0000
+date: 2026-10-03 09:00:00 +/-0000
 categories: [PORTFOLIO]
 tags: [machining, design, workshop, portfolio]     # TAG names should always be lowercase
 image:
-  path: ../assets/img/workshop/page_image.jpeg
+  path: /assets/img/workshop/page_image.jpeg
   alt: image alternative text
 ---
 
@@ -25,11 +25,11 @@ I used a DMG ultrasonic grinding machine to machine ceramic and quartz materials
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/001.jpg" alt="5-axis ultrasonic grinding machine" style="display: block; width: 400px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/001.jpg" alt="5-axis ultrasonic grinding machine" style="display: block; width: 400px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;"><a href="https://uk.dmgmori.com/products/machines/ultrasonic/ultrasonic-precision/ultrasonic-20-linear-3rd" target="_blank" rel="noopener noreferrer">DMG Ultrasonic Linear</a> 5-axis Grinding Machine</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/001-2.jpg" alt="Grinding machine close-up view" style="display: block; width: 400px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/001-2.jpg" alt="Grinding machine close-up view" style="display: block; width: 400px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Ultrasonic Tools for High Surface Quality</figcaption>
   </figure>
 </div>
@@ -42,11 +42,11 @@ Custom grinding tool design is particularly important for profile grinding opera
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/003-2.jpg" alt="Vertical grinding tool design" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/003-2.jpg" alt="Vertical grinding tool design" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Vertical Grinding Tool Design</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/003.jpg" alt="Vertical grinding tool machining" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/003.jpg" alt="Vertical grinding tool machining" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Geometry of the Tool with Special Radius</figcaption>
   </figure>
 </div>
@@ -59,18 +59,18 @@ I designed the tool in SolidWorks, generated the toolpath in hyperMILL, and mach
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/11.gif" alt="Horizontal grinding tool animation" style="display: block; width: 400px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/11.gif" alt="Horizontal grinding tool animation" style="display: block; width: 400px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">CAM Simulation for Helical Horizontal Grinding Tool</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/12.jpg" alt="Horizontal tool detail" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/12.jpg" alt="Horizontal tool detail" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Horizontal Tool Prototyping</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/13.jpg" alt="Horizontal grinding tool sample" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/13.jpg" alt="Horizontal grinding tool sample" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Tool Geometry After Rough Cutting</figcaption>
   </figure>
 </div>
@@ -81,11 +81,11 @@ For complex geometries, I used hyperMILL to generate grinding toolpaths and eval
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/03.gif" alt="Manufacturing simulation animation" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/03.gif" alt="Manufacturing simulation animation" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Simulation of a Grinding Toolpath</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/04.jpeg" alt="Tool contact simulation" style="display: block; width: 281px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/04.jpeg" alt="Tool contact simulation" style="display: block; width: 281px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">A Final Ceramic Workpiece Geometry</figcaption>
   </figure>
 </div>
@@ -96,7 +96,7 @@ Thin-walled structures require carefully designed support to prevent sudden crac
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/04-1.gif" alt="Fixture design animation" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/04-1.gif" alt="Fixture design animation" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">A Custom Inner Profile Grinding Fixture I Designed</figcaption>
   </figure>
 </div>
@@ -109,11 +109,11 @@ Thin-walled structures require carefully designed support to prevent sudden crac
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/05-1.jpeg" alt="Workshop machining process" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/05-1.jpeg" alt="Workshop machining process" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Precision Quartz Gyro Shell Machining Process</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="../assets/img/workshop/6-1.jpeg" alt="Finished quartz gyro shell" style="display: block; width: 300px; max-width: 100%; height: auto;">
+    <img src="/assets/img/workshop/6-1.jpeg" alt="Finished quartz gyro shell" style="display: block; width: 300px; max-width: 100%; height: auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Finished Fused Quartz Gyro Shell</figcaption>
   </figure>
 </div>
@@ -124,15 +124,15 @@ I have also machined several high-precision medical components, as shown in the 
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center; flex: 1 1 0;">
-    <img src="../assets/img/workshop/08.jpeg" alt="Medical precision component" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto;">
+    <img src="/assets/img/workshop/08.jpeg" alt="Medical precision component" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">High-Precision Medical Component Machining</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center; flex: 1 1 0;">
-    <img src="../assets/img/workshop/08-1.jpeg" alt="Medical device machining detail" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto;">
+    <img src="/assets/img/workshop/08-1.jpeg" alt="Medical device machining detail" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Detail of the Machined Medical Part</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center; flex: 1 1 0;">
-    <img src="../assets/img/workshop/08-2.jpeg" alt="Finished medical test device part" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto;">
+    <img src="/assets/img/workshop/08-2.jpeg" alt="Finished medical test device part" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto;">
     <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Finished Workpiece</figcaption>
   </figure>
 </div>
