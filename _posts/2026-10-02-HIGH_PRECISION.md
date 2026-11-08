@@ -9,7 +9,7 @@ image:
   alt: image alternative text
 ---
 
-When I was working as a design and manufacturing engineer at Nanotech, one of my study fields was designing and testing machinability of highly brittle materials such as [fused silica](https://en.wikipedia.org/wiki/Fused_quartz), [alumina](https://en.wikipedia.org/wiki/Aluminium_oxide), and [PZT](https://en.wikipedia.org/wiki/Lead_zirconate_titanate). Machining these materials often requires specialised fixtures and tooling, particularly when dealing with freeform geometries. Although low feed rates are generally required to achieve high surface quality, workpiece setup methods, cutting angles, and cooling strategies become especially important in high-volume production. Below I described some strategies I followed.
+As a design and manufacturing engineer, one of my study fields was designing and testing machinability of highly brittle materials such as [fused silica](https://en.wikipedia.org/wiki/Fused_quartz), [alumina](https://en.wikipedia.org/wiki/Aluminium_oxide), and [PZT](https://en.wikipedia.org/wiki/Lead_zirconate_titanate). Machining these materials often requires specialised fixtures and tooling, particularly when dealing with freeform geometries. Although low feed rates are generally required to achieve high surface quality, workpiece setup methods, cutting angles, and cooling strategies become especially important in high-volume production. Below I described some strategies I followed.
 
 ## Challenges with Machining of Brittle Materials
 
