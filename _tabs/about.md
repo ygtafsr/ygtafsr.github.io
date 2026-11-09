@@ -5,7 +5,7 @@ order: 4
 mermaid: true
 ---
 
-10+ years of industry experience in structural analysis, design, and manufacturing. Worked across automotive, energy, aerospace, and HVAC industries. Developed softwares for both engineering calculations and CAE workflows.
+10+ years of industry experience in structural analysis, design, and manufacturing. Worked across the automotive, energy, aerospace, and HVAC industries. Developed software tools for both engineering calculations and CAE workflows.
 
 >Please check out my protfolio [here.](/categories/portfolio/)
 
@@ -81,7 +81,7 @@ flowchart LR
 ### **CAE Engineer** | ZF Group | Automotive | 2022-2025
 -------------------------------------------
 
-  Performed nonlinear FEA and fatigue analyses of vehicle chassis components using detailed models (3–6 million DOF). Worked with steel, aluminium, plastic and rubber components using nonlinear material models. Modelled nonlinear contacts and joint behaviour including bolted joints and welded connections, under multiaxial loading conditions. Carried out random vibration fatigue, multi-event strain-life fatigue and IIW weld fatigue analysis.
+  Performed nonlinear FEA and fatigue analyses of vehicle chassis components using detailed models (3–6 million DOF) under multiaxial loading conditions Worked with steel, aluminium, plastic, and rubber components using nonlinear material models. Modelled nonlinear contacts and joint behaviour, including bolted joints and welded connections. Carried out random vibration fatigue, multi-event strain-life fatigue, and IIW weld fatigue analyses.
 
 #### *Key Achievements*
 
@@ -101,7 +101,7 @@ Performed FEA for structural static and dynamic problems involving transformer l
 ### **Design and Manufacturing Engineer** | Nanotech | Aerospace | 2017-2021
 -------------------------------------------
 
-Designed mechanical components and systems, including shafts, flanges, dies, lifting jacks, flushing systems, and vacuum and pressure vessels. Participated in all stages of the engineering process, from conceptual design, CAD, technical drawings, and material selection to CAM programming, prototyping, testing and measurement (CMM), design reviews, and machining.
+Designed mechanical components and systems, including shafts, flanges, dies, lifting jacks, flushing systems, and vacuum and pressure vessels. Participated in all stages of the engineering process, from conceptual design, CAD modelling, technical drawings, and material selection to CAM programming, prototyping, CMM inspection, design reviews, and machining.
 
 #### *Key Achievements*
 
@@ -112,7 +112,7 @@ Designed mechanical components and systems, including shafts, flanges, dies, lif
 ### **Project Engineer** | ARS Cooling Systems | Energy | 2013-2016
 -------------------------------------------
 
-Designed industrial cooling system applications, performed design calculations, prepared 2D project drawings, and produced technical reports for project documentation.
+Designed industrial cooling systems and performed design calculations, including pump capacity determination, pipe and fitting sizing, primary cooling unit selection, pipe friction loss, and heat loss calculations. Prepared 2D project drawings and technical reports.
 
 ## EDUCATION
 

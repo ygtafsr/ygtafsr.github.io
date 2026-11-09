@@ -19,7 +19,6 @@ During the COVID-19 pandemic, I participated in an internal company project as a
 - Fan-induced vibrations must be controlled. Vibration-damping components must be considered if excessive vibrations occur during start-up and shutdown.
 - Internal airflow must follow a continuous flow path, preventing air leakage.
 - The device's airflow capacity must meet the requirements established by the bacterial testing calculations.
-- Maintaince
 - All internal electronic components, including UV-C lamps, and filters must be easily accessible for maintenance.
 - The filter must be easy to install and remove.
 
@@ -66,17 +65,18 @@ _Filters can be easily removed by unscrewing the covers_
 I also designed a glove box to allow test engineers to carry out bacterial testing safely.
 
 ![Desktop View](/assets/img/sterilization/GloveBox.jpeg){: width="400"}
+_The Device Inside the Glovebox_
 
 # Delivery
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 1rem; margin: 1rem 0;">
   <figure style="margin: 0; text-align: center;">
     <img src="/assets/img/sterilization/Delivery-I.JPG" alt="5-axis ultrasonic grinding machine" style="display: block; width: 400px; max-width: 100%; height: auto;">
-    <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;"><a href="https://uk.dmgmori.com/products/machines/ultrasonic/ultrasonic-precision/ultrasonic-20-linear-3rd" target="_blank" rel="noopener noreferrer">DMG Ultrasonic Linear</a> 5-axis Grinding Machine</figcaption>
+    <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">First Prototypes</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/assets/img/sterilization/Delivery-II.JPG" alt="Grinding machine close-up view" style="display: block; width: 400px; max-width: 100%; height: auto;">
-    <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Ultrasonic Tools for High Surface Quality</figcaption>
+    <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">A Final Product in Place</figcaption>
   </figure>
 </div>
 
